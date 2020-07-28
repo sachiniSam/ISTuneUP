@@ -1,0 +1,8 @@
+[mysql]
+innodb_buffer_pool_size = 5437M
+innodb_log_file_size = 227M
+innodb_flush_method = fsync
+thread_cache_size = 74
+innodb_thread_sleep_delay = 351
+max_connections = 186
+

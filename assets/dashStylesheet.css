@@ -1,0 +1,92 @@
+.param_box {
+    border-radius: 5px;
+    background-color: #c2e0ff;
+    margin: 5px;
+    padding: 10px;
+    position: relative;
+    flex: auto;
+    text-align: center;
+    box-shadow: 2px 2px 2px lightgrey;
+  }
+
+  
+  .improvement_box {
+    border-radius: 5px;
+    background-color: #deeaf7;
+    margin: 10px;
+    padding: 15px;
+    position: relative;
+    box-shadow: 2px 2px 2px lightgrey;
+    text-align: center;
+    flex: 1
+  }
+
+  .impro_box {
+    background-color: #c2e0ff;
+    margin: 25px;
+    padding: 40px;
+    position: relative;
+    box-shadow: 2px 2px 2px lightgrey;
+    height: 150px;
+    flex: 1;
+    font-size: 25px;
+    text-align: center;
+  }
+
+  #sidebar{
+    background: #3b638e;
+  }
+
+
+#sidebar .sidebar-header {
+  background: #3b638e;
+
+}
+#improveIcon{
+  height: 50px;
+}
+.impro_box_text{
+  font-size: 25px;
+  text-align: center;
+}
+
+#optimumHeading{
+  text-align: center;
+}
+#sidePanel{
+  width: 100%;
+  font-size: 15px;
+  padding-left: 2px;
+  display: inline-block;
+  text-align: center;
+  background: #e5ecf6;
+}
+
+#btn-collapse{
+  border-radius: 5px;
+  margin: 5px;
+  padding: 5px;
+  position: relative;
+  flex: auto;
+  text-align: center;
+  font-size: small;
+}
+.navsideBar #sidebar #sidebar-header{
+  background: #3b638e;
+}
+.param_box_analysis{
+  background-color: #E5ECF6;
+  border-radius: 5px;
+  margin: 5px;
+  padding: 10px;
+  position: relative;
+  flex: auto;
+  text-align: center;
+  box-shadow: 2px 2px 2px lightgrey;
+}
+#successBtn{
+  position: relative;
+  flex: auto;
+  text-align: center;
+  padding: inherit;
+}

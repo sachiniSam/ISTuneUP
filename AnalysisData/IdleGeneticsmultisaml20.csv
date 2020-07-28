@@ -1,0 +1,10 @@
+iterations,innodb_buffer_pool_size,innodb_log_file_size,innodb_flush_method,thread_cache_size,innodb_thread_sleep_delay,max_connections,Average,99%_Line,Throughput
+0,128,48,fsync,9,10000,151,2680,5612,12.9
+1,1238,231,fsync,23,141,193,1822,3919,19.1
+2,7569,221,fsync,28,276,168,1926,4098,18
+3,1233,240,O_DIRECT,65,79,197,2208,4738,15.7
+4,6142,381,O_DIRECT,54,10,183,2247,4969,15.3
+5,5438,128,O_DIRECT,95,223,192,2374,4853,14.5
+6,3046,103,O_DIRECT,55,98,176,2425,5516,14.2
+7,1238,221,fsync,23,276,193,2186,4489,15.8
+8,1238,231,fsync,23,141,193,1972,4241,17.6
